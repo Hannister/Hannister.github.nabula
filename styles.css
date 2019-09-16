@@ -32,14 +32,14 @@ canvas {
 @media screen and (max-width: 450px) {
 
     h1 {
-        font-size: 45px;
+        font-size: 35px;
         padding-top: 160px;
 
     }
 
     h4 {
         margin-top: 25px;
-        font-size: 18px;
+        font-size: 16px;
     }
 
 }
