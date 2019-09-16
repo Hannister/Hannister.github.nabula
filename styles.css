@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    padding-top: 240px;
+    padding-top: 200px;
     font-size: 100px;
     letter-spacing: 80px;
     font-weight: lighter;
@@ -19,9 +19,8 @@ h1 {
 h4 {
     margin-top: -30px;
     font-size: 20px;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     font-weight: 500;
-
 }
 
 canvas {
