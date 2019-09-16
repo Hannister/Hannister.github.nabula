@@ -10,7 +10,6 @@ body {
 h1 {
     padding-top: 240px;
     font-size: 100px;
-    letter-spacing: 80px;
     font-weight: lighter;
 }
 
@@ -26,5 +25,21 @@ canvas {
     top: 0;
     left: 0;
     z-index: -99;
-    width: 100%;
+    width: 100vw;
+    height: 100vh;
+}
+
+@media screen and (max-width: 450px) {
+
+    h1 {
+        font-size: 45px;
+        padding-top: 160px;
+
+    }
+
+    h4 {
+        margin-top: 25px;
+        font-size: 18px;
+    }
+
 }
