@@ -1,9 +1,9 @@
 body {
     width: 100vw;
     height: 100vh;
-    margin: 0;
+    margin-left: 30px;
     background: black;
-    overflow: auto;
+    overflow: hidden;
     font-family: 'Raleway', sans-serif;
     text-align: center;
 }
@@ -27,4 +27,5 @@ canvas {
     top: 0;
     left: 0;
     z-index: -99;
+    width: 100%;
 }
