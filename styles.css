@@ -4,9 +4,24 @@ body {
     margin: 0;
     background: black;
     overflow: hidden;
-    display: flex;
     justify-content: center;
-    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 240px;
+    font-size: 100px;
+    letter-spacing: 80px;
+    font-weight: lighter;
+}
+
+h4 {
+    margin-top: -30px;
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-weight: 500;
+
 }
 
 canvas {
